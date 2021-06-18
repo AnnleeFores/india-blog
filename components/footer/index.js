@@ -73,7 +73,7 @@ export default () => (
         <p sx={{ fontSize: [2, 2, 3], mr: [1, null], textAlign: ['center'] }}>
           Connect With Us
         </p>
-        <a href="https://www.facebook.com/hackclubindia/" target="_blank">
+        <a href="https://www.facebook.com/hackclubapac/" target="_blank">
           <img
             src="https://raw.githubusercontent.com/hackclub/india-site/master/public/social/facebook.png"
             sx={{
@@ -83,7 +83,7 @@ export default () => (
             }}
           ></img>
         </a>
-        <a href="https://www.instagram.com/hackclubindia/" target="_blank">
+        <a href="https://www.instagram.com/hackclubapac/" target="_blank">
           <img
             src="https://raw.githubusercontent.com/hackclub/india-site/master/public/social/instagram.png"
             sx={{
@@ -93,7 +93,7 @@ export default () => (
             }}
           ></img>
         </a>
-        <a href="https://twitter.com/HackClubIndia" target="_blank">
+        <a href="https://twitter.com/HackClubapac" target="_blank">
           <img
             src="https://raw.githubusercontent.com/hackclub/india-site/master/public/social/twitter.png"
             sx={{
